@@ -9,10 +9,6 @@ Once a year, a multi-state world power championship is arranged for students of 
 # Motivation :
 The LfW ops require substantial sharing of URLs for the acquisition and servicing of the teacher and students. LfW presently uses paid third-party URL shorteners. They are effieicnt and effective however  there is cost involved and lack of customisation .leads to subscribing features which are not required at all .  Need is felt of a simple in house shortner service 
 
-# TODO 
-
-There is scope for the integration of in-house shorteners with the CRM. 
-
 
 # Project  Structure 
 
