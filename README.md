@@ -5,9 +5,7 @@ Leap For Word is a social enterprise working to make India English Literate. The
 
 The acquisition of teachers involves digital marketing on WhatsApp groups and social media to drive traffic to digital properties.  
 
-This consists in sharing campaign links with the audience. The campaigns are conducted weekly for the teachers' acquisition, onboarding, certification, and servicing. 
-
-Once a year, a multi-state world power championship is arranged for students of 7 states of India, involving 1 million students. The event requires driving traffic to digital properties. 
+It involves sharing campaign links with the audience. The campaigns are conducted weekly for the teachers' acquisition, onboarding, certification, and servicing. Once a year, a multi-state world power championship is arranged for students of 7 states of India, involving 1 million students. The event requires driving traffic to digital properties. 
 
 # Motivation :
 The LfW ops require substantial sharing of URLs for the acquisition and servicing of the teacher and students. LfW presently uses paid third-party URL shorteners. They are effieicnt and effective however  there is cost involved and lack of customisation .leads to subscribing features which are not required at all .  Need is felt of a simple in house shortner service 
