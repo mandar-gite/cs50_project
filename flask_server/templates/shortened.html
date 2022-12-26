@@ -1,0 +1,31 @@
+{% extends "layout.html"%} {%block title%} Your URL {%endblock%} {%block main%}
+
+<main class="container py-5 text-center">
+    <form  action = "/url" method="POST">
+        <div class="input-group input-group-lg">
+            <input
+                type="text"
+                class="form-control"
+                placeholder="Enter long URL "
+                aria-label="Enter long URL"
+                aria-describedby="basic-addon2"
+                name = "target_url"
+            />
+            <div class="input-group-append">
+                <button class="btn btn-success btn-lg" type="button"> 
+                    Shorten
+                </button>
+            </div>
+        </div>
+    </form>
+    
+</main>
+<div id = "original" class="mx-auto" >
+    {{database['target_url']}}
+</div>
+
+<div id = "shortend" class="mx-auto" style="width: 400px;">
+    {{database['url']}}
+</div>
+
+{%endblock%}

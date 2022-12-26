@@ -1,0 +1,54 @@
+/* Size for brand */
+nav .navbar-brand {
+    font-size: xx-large;
+}
+
+/* Colors for brand */
+nav .navbar-brand .blue {
+    color: #000307;
+}
+nav .navbar-brand .red {
+    color: #c41209;
+}
+nav .navbar-brand .yellow {
+    color: #f5b82e;
+}
+nav .navbar-brand .green {
+    color: #2e944b;
+}
+
+#aplg {
+    width: 400px;
+    height: 400px;
+}
+
+#shortend {
+    font-size: x-large;
+    font-weight: 300;
+    font-family: Verdana,Tahoma, sans-serif;
+    font-weight: bolder;
+    background-color: rgb(158, 224, 208);
+    height: 80px;
+    width: 160px;
+    border-radius: 2%;
+    text-align: center; 
+    align-items: center;
+    margin: 50px;
+    border: 3px solid rgb(243,238,232);
+    padding: 20px;
+}
+#original {
+    font-size: large;
+    font-weight: 200;
+    font-family: Verdana,Tahoma, sans-serif;
+    font-weight: bold;
+    background-color: rgb(240, 206, 137);
+    height: 120px;
+    width: 600px;
+    border-radius: 2%;
+    text-align: center; 
+    align-items: center;
+    margin: auto;
+    border: 3px solid rgb(232, 243, 242);
+    padding: 20px;
+}
