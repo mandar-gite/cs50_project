@@ -1,4 +1,4 @@
-# LFW INHOUSE URL SHORTNER
+# LFW INHOUSE URL SHORTENER
 #### Video Demo:  <URL HERE>
 #### Description:
 Leap For Word is a social enterprise working to make India English Literate. The teachers from government schools are trained and certified to use the techniques designed to teach English to students. 
