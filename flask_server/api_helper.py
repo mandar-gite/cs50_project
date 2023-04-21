@@ -1,5 +1,5 @@
 import requests
-hosted_at = "http://146.190.110.221:8000"
+hosted_at = "http://127.0.0.1:8000"
 
 def shorten_url(target_url: str):
     """ function to call lfw_url API
@@ -15,7 +15,7 @@ def shorten_url(target_url: str):
             }
     """
     payload = {"target_url": target_url}
-    response_create_url = requests.post("http://146.190.110.221:8000" + "/url", json=payload)
+    response_create_url = requests.post("http://127.0.0.1:8000" + "/url", json=payload)
     json_create_url = response_create_url.json()
 
     return json_create_url

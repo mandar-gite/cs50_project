@@ -2,7 +2,7 @@
 
  
 import urllib.request, json
-
+from cs50 import SQL 
 from flask import Flask, session, render_template, request, redirect,jsonify
 from flask_session import Session
 from helper import login_required, apology
